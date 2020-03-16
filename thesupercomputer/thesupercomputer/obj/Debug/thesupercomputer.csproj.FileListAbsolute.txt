@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\thesupercomputer\thesupercomputer\obj\Debug\thesupercomputer.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\thesupercomputer\thesupercomputer\bin\Debug\thesupercomputer.exe.config
+C:\Users\ASUS\source\repos\thesupercomputer\thesupercomputer\bin\Debug\thesupercomputer.exe
+C:\Users\ASUS\source\repos\thesupercomputer\thesupercomputer\bin\Debug\thesupercomputer.pdb
+C:\Users\ASUS\source\repos\thesupercomputer\thesupercomputer\obj\Debug\thesupercomputer.exe
+C:\Users\ASUS\source\repos\thesupercomputer\thesupercomputer\obj\Debug\thesupercomputer.pdb
